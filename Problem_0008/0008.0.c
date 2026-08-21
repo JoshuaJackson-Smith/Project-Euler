@@ -10,7 +10,7 @@
 
 int main(void) {
 	FILE *numptr;
-	numptr = fopen("/Users/jjacksonsmith/Documents/Uni/CompProgr/ProjectFiles/Challenges/ProjectEuler/Problem_0008/Problem_0008/numbers.txt", "r");
+	numptr = fopen("/Problem_0008/numbers.txt", "r");
 	
 	char characters[1001];
 	int numbers[1000];
