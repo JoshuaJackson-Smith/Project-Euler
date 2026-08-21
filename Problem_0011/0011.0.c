@@ -10,7 +10,7 @@
 
 int main(void) {
 	FILE *numptr;
-	numptr = fopen("/Users/jjacksonsmith/Documents/Uni/CompProgr/ProjectFiles/Challenges/ProjectEuler/Problem_0011/Problem_0011/array.txt", "r");
+	numptr = fopen("/Problem_0011/array.txt", "r");
 	
 	int numArray[20][20];
 	int number;
