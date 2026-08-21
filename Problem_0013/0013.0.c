@@ -10,7 +10,7 @@
 
 int main(void) {
 	FILE *sumptr;
-	sumptr = fopen("/Users/jjacksonsmith/Documents/Uni/CompProgr/ProjectFiles/Challenges/ProjectEuler/Problem_0013/Problem_0013/Largesum.txt", "r");
+	sumptr = fopen("/Problem_0013/Largesum.txt", "r");
 	char sumArr[100][50];
 	
 	return 0;
